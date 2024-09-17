@@ -1,2 +1,2 @@
-# Calculadora.JS
-Calculadora usando o JavaScript
+# JavaScript Calculator
+Calculator using JavaScript
